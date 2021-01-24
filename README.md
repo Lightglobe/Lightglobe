@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
 
-<!--
-**Lightglobe/Lightglobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=Lightglobe.Lightglobe)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Lightglobe)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Lightglobe)
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Lightglobe/Lightglobe?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-Here are some ideas to get you started:
+- ⚛️ An avid React developer and JS lover.
+- 🔭 I’m currently working on huddler, an event based social network for the next gens aftermath covid.
+- 🌱 I’m currently learning advanced patterns with Redux.
+- 👯 I’m open minded generalist, looking to collaborate. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=Lightglobe&show_icons=true&theme=bear)

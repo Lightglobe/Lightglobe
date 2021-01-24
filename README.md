@@ -10,5 +10,4 @@
 - 🌱 I’m currently learning advanced patterns with Redux.
 - 👯 I’m open minded generalist, looking to collaborate. 
 
-
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=Lightglobe&show_icons=true&theme=bear)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightglobe&layout=compact)](https://github.com/Lightglobe/github-readme-stats)

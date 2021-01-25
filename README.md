@@ -8,6 +8,6 @@
 - ⚛️ An avid React developer and JS lover.
 - 🔭 I’m currently working on huddler, an event based social network for the next gens aftermath covid.
 - 🌱 I’m currently learning advanced patterns with Redux.
-- 👯 I’m open minded generalist, looking to collaborate. 
+- 👯 I’m open minded, looking to collaborate. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightglobe&layout=compact)](https://github.com/Lightglobe/github-readme-stats)
